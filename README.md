@@ -1,4 +1,6 @@
-# Typora-ImagePlugin-Mac
+# Typora-ImagePlugin
+
+（mac下使用 其他环境自己写）
 
 由于使用typora的时候图片都是保存在本地，如果需要用到接口服务器的存储该怎么办呢？
 
@@ -32,6 +34,6 @@
 
 ![image](https://user-images.githubusercontent.com/42985524/198182475-909ab57a-e9bb-4acc-be1e-9cbe96a9451e.png)
 
-这样 后续只要能在某些大厂存在未验证授权的文件上传功能 可以持续打包各位插件白嫖图床
+这样 后续只要能在某些大厂存在未验证授权的文件上传功能 可以持续打包各种插件白嫖图床
 
 
